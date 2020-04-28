@@ -9,6 +9,6 @@
 * Николай Груданов, научный сотрудник [Уральского федерального университета](https://urfu.ru/ru/), г. Екатеринбург
 
 ### Доступные файлы:
-* part-time-agenda.pdf - программа заочной части курса
-* full-time-agenda.pdf - программа очной части (однодневный семинар для участников конференции)
-* IntroductionMaterials.md - учебные материалы для первой части (апрель-май 2020 г.)
+* [full-time-agenda.pdf](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/full-time-agenda.pdf) - программа очной части (однодневный семинар для участников конференции)
+* [part-time-agenda.pdf](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/part-time-agenda.pdf) - программа заочной части курса
+* [IntroductionMaterials.md](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/IntroductionMaterials.md) - учебные материалы для первой части (апрель-май 2020 г.)
