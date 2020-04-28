@@ -12,4 +12,4 @@
 * если ваша организация еще не зарегистрована в сети GBIF, необходимо это сделать. Для этого нужно заполнить [веб-форму](https://www.gbif.org/become-a-publisher) на сайте gbif.org. Как это сделать описано в нашей [инструкции](http://gbif.ru/files/manuals/GBIF_endorsement.pdf). Список уже зарегистрированных в GBIF российских организаций [здесь](https://www.gbif.org/publisher/search?country=RU).
 
 ## Если у вас возникли вопросы
-вы можете нанаписать свои вопросы о сети GBIF и публикации данных в [гугл-файл](https://docs.google.com/document/d/1ag6MBrU5p_3nfcPq-ZtOuiO9McPfpkkmi8YxwtKApY4/edit?usp=sharing). При необходимости в конце мая мы организуем вебинар для обсуждения.
+вы можете написать свои вопросы о сети GBIF и публикации данных в [гугл-файл](https://docs.google.com/document/d/1ag6MBrU5p_3nfcPq-ZtOuiO9McPfpkkmi8YxwtKApY4/edit?usp=sharing). При необходимости в конце мая мы организуем вебинар для обсуждения.
