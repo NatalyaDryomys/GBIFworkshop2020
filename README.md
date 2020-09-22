@@ -21,6 +21,10 @@
 Программа
 * [full-time-agenda.pdf](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/WorkshopGBIF_Ekaterinburg2020.pdf) - программа очной части (однодневный семинар для участников конференции)
 
+Упражнения
+* [Лист упражнений](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/UseCase_RU.pdf)
+* [Упражнения с OpenRefine](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/Data%20Cleaning%20OpenRefine%20Exercise.pdf)
+
 Презентации
 * [Лекция 1.1. Публикация данных в GBIF: основные этапы](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/1.1%20-%20Data%20publishing%20Steps.pdf)
 * [Лекция 1.2. Типы наборов данных в GBIF](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/1.2-GBIF%20DataTypes.pdf)
