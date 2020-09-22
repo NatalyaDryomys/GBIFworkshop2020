@@ -26,7 +26,10 @@
 
 Учебные материалы
 * [Данные для упражнения 1](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/USE%20CASE%201%20TJ%20-%20Exercise%201%20Base%20Material.zip)
-* [Шаблон для упражнение 1](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/TemplateHerbarium.xlsx)
+* [Шаблон для упражнения 1](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/TemplateHerbarium.xlsx)
+* Таблица для упражнения 2
+* [Таблица для упражнения 3](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/ChecklistHerbariumTJ.csv)
+* [Таблица для упражнения 4](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/Data_Cleaning_OpenRefine_DATA%20EXAMPLE_TJ.csv)
 
 Презентации
 * [Лекция 1.1. Публикация данных в GBIF: основные этапы](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/1.1%20-%20Data%20publishing%20Steps.pdf)
