@@ -25,7 +25,7 @@
 * [Упражнения с OpenRefine](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/Data%20Cleaning%20OpenRefine%20Exercise.pdf)
 * [Данные для упражнения 1](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/USE%20CASE%201%20TJ%20-%20Exercise%201%20Base%20Material.zip)
 * [Шаблон для упражнения 1](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/TemplateHerbarium.xlsx)
-* Данные для упражнения 2
+* [Данные для упражнения 2](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/Data%20Cleaning_DATA%20EXAMPLE%20TJ.csv)
 * [Данные для упражнения 3](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/ChecklistHerbariumTJ.csv)
 * [Данные для упражнения 4](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/Data_Cleaning_OpenRefine_DATA%20EXAMPLE_TJ.csv)
 
