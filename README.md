@@ -11,19 +11,22 @@
 
 ### Доступные файлы:
 
-Заочная часть курса
+# Заочная часть курса
 * [part-time-agenda.pdf](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/part-time-agenda.pdf) - программа заочной части курса
 * [IntroductionMaterials.md](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/IntroductionMaterials.md) - учебные материалы для первой части (апрель-май 2020 г.)
 * [template vegetation releve.ods](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/template%20vegetation%20releve.ods) - шаблон для представления данных геоботанических описаний
 
-Очная часть курса
-
+# Очная часть курса
 Программа
 * [full-time-agenda.pdf](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/WorkshopGBIF_Ekaterinburg2020.pdf) - программа очной части (однодневный семинар для участников конференции)
 
 Упражнения
 * [Лист упражнений](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/UseCase_RU.pdf)
 * [Упражнения с OpenRefine](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/Data%20Cleaning%20OpenRefine%20Exercise.pdf)
+
+Учебные материалы
+* [Данные для упражнения 1](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/USE%20CASE%201%20TJ%20-%20Exercise%201%20Base%20Material.zip)
+* [Шаблон для упражнение 1](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/TemplateHerbarium.xlsx)
 
 Презентации
 * [Лекция 1.1. Публикация данных в GBIF: основные этапы](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/1.1%20-%20Data%20publishing%20Steps.pdf)
