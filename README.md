@@ -10,9 +10,10 @@
 * Николай Груданов, инженер кафедры Биоразнообразия и биоэкологии [Уральского федерального университета](https://urfu.ru/ru/), г. Екатеринбург
 
 ### Доступные файлы:
-* [full-time-agenda.pdf](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/full-time-agenda.pdf) - программа очной части (однодневный семинар для участников конференции)
+* [full-time-agenda.pdf](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/WorkshopGBIF_Ekaterinburg2020.pdf) - программа очной части (однодневный семинар для участников конференции)
 * [part-time-agenda.pdf](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/part-time-agenda.pdf) - программа заочной части курса
 * [IntroductionMaterials.md](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/IntroductionMaterials.md) - учебные материалы для первой части (апрель-май 2020 г.)
 * [template vegetation releve.ods](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/template%20vegetation%20releve.ods) - шаблон для представления данных геоботанических описаний
+
 
 #### E-mail для связи bdi@pbcras.ru
