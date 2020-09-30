@@ -37,6 +37,6 @@
 * Лекция 3. Таксономический справочник GBIF Backbone
 * [Лекция 4. Поиск и исправления ошибок с помощью OpenRefine](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/4-Data-cleaning-OpenRefine.pdf)
 
-[Форма обратной связи] (https://forms.gle/pWV5mRANx5ANhvrQA)
+[Форма обратной связи](https://forms.gle/pWV5mRANx5ANhvrQA)
 
 #### E-mail для связи bdi@pbcras.ru
