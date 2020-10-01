@@ -32,9 +32,9 @@
 Презентации
 * [Лекция 1.1. Публикация данных в GBIF: основные этапы](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/1.1%20-%20Data%20publishing%20Steps.pdf)
 * [Лекция 1.2. Типы наборов данных в GBIF](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/1.2-GBIF%20DataTypes.pdf)
-* Лекция 1.3. Darwin Core: обменный стандарт для данных о биоразнообразии
+* [Лекция 1.3. Darwin Core: обменный стандарт для данных о биоразнообразии](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/1.3_Darwin%20Core.pdf)
 * [Лекция 2. Качество данных. Базовые инструменты для поиска ошибок в данных](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/2-DataCleaning.pdf)
-* Лекция 3. Таксономический справочник GBIF Backbone
+* [Лекция 3. Таксономический справочник GBIF Backbone](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/3-GBIF_Backbone.pdf)
 * [Лекция 4. Поиск и исправления ошибок с помощью OpenRefine](https://github.com/NatalyaDryomys/GBIFworkshop2020/blob/master/4-Data-cleaning-OpenRefine.pdf)
 
 [Форма обратной связи](https://forms.gle/pWV5mRANx5ANhvrQA)
